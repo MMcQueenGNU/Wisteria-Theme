@@ -7,7 +7,7 @@ Wallpaper is included in directory
 
 Screenshot:
 
-![Wisteria_Screenshot](https://user-images.githubusercontent.com/88061514/210154675-4f0dea20-1d43-4ec6-ace1-68d2ba60dbc3.png)
+![Wisteria_Screenshot](https://user-images.githubusercontent.com/88061514/210155011-65205647-e36d-4c65-a830-55454120cb67.png)
 
 # Installation
  Extract Tar Archive File On Directory to /usr/share/themes (as root)
